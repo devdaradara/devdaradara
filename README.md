@@ -1,11 +1,11 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Jiye%20Ryu)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
-
-[![devdaradara's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdaradara&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/bi-sz/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01/)
 
 
 ## 📞 Contact Me 📞
@@ -22,12 +22,25 @@
 
 
 ## 📑 DEV's log 📑
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=default)](https://daradarav.tistory.com/)
 
+<p>
+  <img height="160em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01">
+  <img height="130em" src="https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=default">
+</p>
 
   
+<br>
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
+    </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -39,14 +52,6 @@
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
-    </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
@@ -54,6 +59,6 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"> 
-</div><br>
-</div>
+    </div>
+  <br>
 </div>
