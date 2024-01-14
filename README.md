@@ -2,11 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F9A6AE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=120&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
 
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=great-gatsby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby">
-</p>
-
 
 ## 📞 Contact Me 📞
 <div style="display:flex; flex-direction:row;">
