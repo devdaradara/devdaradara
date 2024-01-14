@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
 
+![Jiye Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdaradara&count_private=true&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/devdaradara/github-readme-stats)
 
 
 ## 📞 Contact Me 📞
