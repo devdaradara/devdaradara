@@ -1,22 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F9A6AE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=120&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
-
-### Hi there 👋
-
 # 안녕하세요. 개발자 <b>류지예</b> 입니다.
 
 >
-
 > 현재 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다.
 
 # Profile
-- [Blog](https://daradarav.tistory.com/)
+
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=great-gatsby&include_orgs=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby&include_orgs=true">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby&include_orgs=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&include_orgs=true">
 
 </p>
 
@@ -49,8 +41,8 @@
 </details>
 
 # Dev Log
-
-[![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=santorini)](https://daradarav.tistory.com/)
+- [Blog](https://daradarav.tistory.com/)
+- [![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=santorini)](https://daradarav.tistory.com/)
 
 # Ability
   > React, ReactNative, Swift, Kotlin, SpringBoot etc...<br>
