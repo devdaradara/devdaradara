@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F9A6AE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=200&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
 
 
-![Jiye Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdaradara&count_private=true&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/devdaradara/github-readme-stats)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=great-gatsby">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby">
+</p>
 
 
 ## 📞 Contact Me 📞
@@ -22,7 +24,7 @@
 ## 📑 DEV's log 📑
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01/)
-[![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=vue-dark)](https://daradarav.tistory.com/)
+[![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=vue-dark)](https://daradarav.tistory.com/)
 
   
 <br>
