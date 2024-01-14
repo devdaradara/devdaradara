@@ -12,8 +12,8 @@
 - [Blog](https://daradarav.tistory.com/)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=buefy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=buefy&include_orgs=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&include_orgs=true">
 </p>
 
 
