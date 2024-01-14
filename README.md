@@ -23,10 +23,8 @@
 
 ## 📑 DEV's log 📑
 
-<p>
-  <img height="160em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01">
-  <img height="130em" src="https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=default">
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01/)
+[![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=vue-dark)](https://daradarav.tistory.com/)
 
   
 <br>
