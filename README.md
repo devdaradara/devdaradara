@@ -1,7 +1,10 @@
 # 안녕하세요. 개발자 <b>류지예</b> 입니다.
 
->
 > 현재 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다.
+> 작은 나비의 날갯짓이 세상을 바꾸듯
+> 나의 배움과 경험이 많은 이들에게 도움이 되기를 꿈꿉니다.
+
+<br/>
 
 # 👩‍💻 Profile
 
@@ -12,6 +15,7 @@
 
 </p>
 
+<br/>
 
 # 🖥️ Project
 <details>
@@ -40,8 +44,12 @@
 
 </details>
 
+<br/>
+
 # 💾 Dev Log 
 [![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=santorini)](https://daradarav.tistory.com/)
+
+<br/>
 
 # 📚 Ability
   > React, ReactNative, Swift, Kotlin, SpringBoot etc...<br>
@@ -76,6 +84,8 @@
 ## 📘 Algorithm
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jiyesung01&theme=warm)
+
+<br/>
 
 # 📞 Contact Me
 <div style="display:flex; flex-direction:row;">
