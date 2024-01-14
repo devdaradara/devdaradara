@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F9A6AE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=200&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F9A6AE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=120&lines=Welcome+to+Jiye%20Ryu's+GitHub!👋)](https://git.io/typing-svg)
 
 
 <p>
