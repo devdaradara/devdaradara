@@ -3,7 +3,7 @@
 >
 > 현재 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다.
 
-# Profile
+# 👩‍💻 Profile
 
 
 <p>
@@ -13,7 +13,7 @@
 </p>
 
 
-# Project
+# 🖥️ Project
 <details>
 <summary>2023</summary>
 
@@ -40,16 +40,15 @@
 
 </details>
 
-# Dev Log
-- [Blog](https://daradarav.tistory.com/)
-- [![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=santorini)](https://daradarav.tistory.com/)
+# 💾 Dev Log 
+[![DaraDaraV's Card](https://github-readme-tistory-card.vercel.app/api?name=daradarav&theme=santorini)](https://daradarav.tistory.com/)
 
-# Ability
+# 📚 Ability
   > React, ReactNative, Swift, Kotlin, SpringBoot etc...<br>
   > 앱과 웹, 프론트엔드와 백엔드, 알고리즘 등 <br>
   > 다양한 분야를 공부하며 성장하는 중
 
-## Language
+## 📕 Language
 ![C 뱃지](https://img.shields.io/badge/C-5/10-A8B9CC?logo=C&logoColor=white)
 ![C++ 뱃지](https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
@@ -60,7 +59,7 @@
 ![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-4/10-7F52FF?logo=Kotlin&logoColor=white)
 ![Swift 뱃지](https://img.shields.io/badge/Swift-5/10-F05138?logo=Swift&logoColor=white)
 
-## Web
+## 📙 Web
 ![React 뱃지](https://img.shields.io/badge/ReactNative-8/10-61DAFB?logo=react&logoColor=white)
 ![SpringBoot 뱃지](https://img.shields.io/badge/SpringBoot-7/10-6DB33F?logo=springboot&logoColor=white)
 ![HTML 뱃지](https://img.shields.io/badge/HTML-5/10-E34F26?logo=HTML&logoColor=white)
@@ -68,17 +67,17 @@
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-6/10-F7DF1E?logo=JavaScript&logoColor=white)
 
 
-## App
+## 📗 App
 ![ReactNative 뱃지](https://img.shields.io/badge/ReactNative-7/10-61DAFB?logo=react&logoColor=white)
 ![Swift 뱃지](https://img.shields.io/badge/Swift-5/10-F05138?logo=Swift&logoColor=white)
 ![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-4/10-7F52FF?logo=Kotlin&logoColor=white)
 ![Android 뱃지](https://img.shields.io/badge/Android-4/10-3DDC84?logo=Android&logoColor=white)
 
-## Algorithm
+## 📘 Algorithm
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jiyesung01&theme=warm)
 
-##  Contact Me
+# 📞 Contact Me
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:devdaradara@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
