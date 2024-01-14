@@ -12,8 +12,8 @@
 - [Blog](https://daradarav.tistory.com/)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=buefy&include_orgs=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&include_orgs=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=buefy&hide=issues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy">
 </p>
 
 
@@ -35,7 +35,7 @@
 - StarHub - React / SpringBoot
   - 지도를 이용한 스터디 및 프로젝트 구인 사이트입니다.
   - 2023.09.20 ~ 2023.12.27
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=front-end)](https://github.com/jinakayoo/front-end)
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
 
 </details>
 
