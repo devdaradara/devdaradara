@@ -1,12 +1,12 @@
 # 안녕하세요. 개발자 <b>류지예</b> 입니다.
 
-> 현재 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다. <br/>
+> 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다. <br/>
 > 작은 나비의 날갯짓이 세상을 바꾸듯 <br/>
-> 나의 배움과 경험이 많은 이들에게 도움이 되기를 꿈꿉니다.
+> 저의 경험과 배움이 많은 이들에게 도움이 되기를 꿈꿉니다.
 
 <br/>
 
-# 👩‍💻 Profile
+# 👩🏻‍💻 Profile
 
 
 <p>
@@ -22,17 +22,17 @@
 <summary>2023</summary>
 
 
-- 추억 하나 주면 안 잡아먹묘! - React
+- 🐰 추억 하나 주면 안 잡아먹묘! - React
   - 타인이 만들어주는 자신만의 추억 갤러리 웹사이트입니다.
   - 2023.01.20 ~ 2023.01.28
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corner-1th-Hackathon&repo=front-end&theme=buefy)](https://github.com/Corner-1th-Hackathon/front-end) 
 
-- Gang Mate - React Native
+- 👵🏻 Gang Mate - React Native
   - 갱년기 여성의 신체적, 정서적 건강을 위한 앱입니다.
   - 2023.02.17 ~ 2023.09.12
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS-laver&repo=Frontend&theme=buefy)](https://github.com/DS-laver/Frontend)
 
-- StarHub - React / SpringBoot
+- 🗺️ StarHub - React & SpringBoot
   - 지도를 이용한 스터디 및 프로젝트 구인 사이트입니다.
   - 2023.09.20 ~ 2023.12.27
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinakayoo&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
