@@ -1,6 +1,7 @@
 # 👋🏻 안녕하세요. 개발자 <b>류지예</b> 입니다.
 
 > 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다. <br/>
+
 > 작은 나비의 날갯짓이 세상을 바꾸듯 <br/>
 > 저의 경험과 배움이 많은 이들에게 도움이 되기를 꿈꿉니다.
 
@@ -58,7 +59,8 @@
 # 📚 Ability
   > React, ReactNative, Swift, Kotlin, SpringBoot etc...<br>
   > 앱과 웹, 프론트엔드와 백엔드, 알고리즘 등 <br>
-  > 다양한 분야를 공부하며 성장하는 중
+  
+  > 다양한 분야를 공부하며 성장하는 중...
 
 ## 📕 Language
 ![C 뱃지](https://img.shields.io/badge/C-5/10-A8B9CC?logo=C&logoColor=white)
