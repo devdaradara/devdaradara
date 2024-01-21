@@ -72,12 +72,12 @@
 ![Swift 뱃지](https://img.shields.io/badge/Swift-5/10-F05138?logo=Swift&logoColor=white)
 
 ## 📙 Web
-![React 뱃지](https://img.shields.io/badge/ReactNative-8/10-61DAFB?logo=react&logoColor=white)
-![SpringBoot 뱃지](https://img.shields.io/badge/SpringBoot-7/10-6DB33F?logo=springboot&logoColor=white)
+![React 뱃지](https://img.shields.io/badge/React-8/10-61DAFB?logo=react&logoColor=white)
 ![HTML 뱃지](https://img.shields.io/badge/HTML-5/10-E34F26?logo=HTML&logoColor=white)
 ![CSS 뱃지](https://img.shields.io/badge/CSS-4/10-1572B6?logo=CSS&logoColor=white)
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-6/10-F7DF1E?logo=JavaScript&logoColor=white)
-
+![TypeScript 뱃지](https://img.shields.io/badge/TypeScript-7/10-3178C6?logo=TypeScript&logoColor=white)
+![SpringBoot 뱃지](https://img.shields.io/badge/SpringBoot-7/10-6DB33F?logo=springboot&logoColor=white)
 
 ## 📗 App
 ![ReactNative 뱃지](https://img.shields.io/badge/ReactNative-7/10-61DAFB?logo=react&logoColor=white)
