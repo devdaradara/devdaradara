@@ -11,8 +11,8 @@
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api?username=devdaradara&show_icons=true&theme=buefy">
-  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&include_orgs=true">
+  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api?username=devdaradara&show_icons=true&theme=buefy">  
+  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&orgs=BuddyFriends,jinakayoo,Corner-1th-Hackathon,DS-laver,DS-Corner-Study">
 </p>
 
 <br/>
@@ -46,6 +46,11 @@
   - 전동 휠체어 급속 충전기 위치 공유 사이트입니다.
   - 2024.01.19 ~ 
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devdaradara&repo=WhereWheel&theme=buefy)](https://github.com/devdaradara/WhereWheel)
+
+-  BuddyFriends - React & SpringBoot
+  - 반려 동물 돌봄 품앗이 웹 사이트 입니다.
+  - 2024.01.27 ~ 2024.02.06
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
 
 </details>
 
