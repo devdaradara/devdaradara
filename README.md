@@ -2,8 +2,8 @@
 
 > 풀스택 개발자를 꿈꾸며 성장하는 대학생 개발자입니다. <br/>
 
-> 작은 나비의 날갯짓이 세상을 바꾸듯 <br/>
-> 저의 경험과 배움이 많은 이들에게 도움이 되기를 꿈꿉니다.
+> 작은 불씨가 넓은 들판을 태우듯, <br/>
+> 저의 작은 노력과 지속적인 학습이 사회적 가치를 창출하기를 바랍니다.
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api?username=devdaradara&show_icons=true&theme=buefy">  
-  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&orgs=BuddyFriends,jinakayoo,Corner-1th-Hackathon,DS-laver,DS-Corner-Study">
+  <img height="180em" src="https://github-readme-stats-vert-one-12.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=buefy&include_org=true">
 </p>
 
 <br/>
@@ -68,18 +68,16 @@
   > 다양한 분야를 공부하며 성장하는 중...
 
 ## 📕 Language
-![C 뱃지](https://img.shields.io/badge/C-5/10-A8B9CC?logo=C&logoColor=white)
-![C++ 뱃지](https://img.shields.io/badge/C++-5/10-00599C?logo=Cplusplus&logoColor=white)
 ![Python 뱃지](https://img.shields.io/badge/Python-7/10-3776AB?logo=Python&logoColor=white)
 ![Java 뱃지](https://img.shields.io/badge/Java-7/10-007396?logo=Java&logoColor=white)
-![HTML 뱃지](https://img.shields.io/badge/HTML-5/10-E34F26?logo=HTML&logoColor=white)
-![CSS 뱃지](https://img.shields.io/badge/CSS-4/10-1572B6?logo=CSS&logoColor=white)
+![C 뱃지](https://img.shields.io/badge/C-6/10-A8B9CC?logo=C&logoColor=white)
+![C++ 뱃지](https://img.shields.io/badge/C++-6/10-00599C?logo=Cplusplus&logoColor=white)
+![HTML 뱃지](https://img.shields.io/badge/HTML-6/10-E34F26?logo=HTML&logoColor=white)
+![CSS 뱃지](https://img.shields.io/badge/CSS-5/10-1572B6?logo=CSS&logoColor=white)
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-6/10-F7DF1E?logo=JavaScript&logoColor=white)
-![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-4/10-7F52FF?logo=Kotlin&logoColor=white)
-![Swift 뱃지](https://img.shields.io/badge/Swift-5/10-F05138?logo=Swift&logoColor=white)
 
 ## 📙 Web
-![React 뱃지](https://img.shields.io/badge/React-8/10-61DAFB?logo=react&logoColor=white)
+![React 뱃지](https://img.shields.io/badge/React-9/10-61DAFB?logo=react&logoColor=white)
 ![HTML 뱃지](https://img.shields.io/badge/HTML-5/10-E34F26?logo=HTML&logoColor=white)
 ![CSS 뱃지](https://img.shields.io/badge/CSS-4/10-1572B6?logo=CSS&logoColor=white)
 ![JavaScript 뱃지](https://img.shields.io/badge/JavaScript-6/10-F7DF1E?logo=JavaScript&logoColor=white)
@@ -87,10 +85,9 @@
 ![SpringBoot 뱃지](https://img.shields.io/badge/SpringBoot-7/10-6DB33F?logo=springboot&logoColor=white)
 
 ## 📗 App
-![ReactNative 뱃지](https://img.shields.io/badge/ReactNative-7/10-61DAFB?logo=react&logoColor=white)
+![ReactNative 뱃지](https://img.shields.io/badge/ReactNative-8/10-61DAFB?logo=react&logoColor=white)
 ![Swift 뱃지](https://img.shields.io/badge/Swift-5/10-F05138?logo=Swift&logoColor=white)
-![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-4/10-7F52FF?logo=Kotlin&logoColor=white)
-![Android 뱃지](https://img.shields.io/badge/Android-4/10-3DDC84?logo=Android&logoColor=white)
+![Kotlin 뱃지](https://img.shields.io/badge/Kotlin-5/10-7F52FF?logo=Kotlin&logoColor=white)
 
 ## 📘 Algorithm
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung01)](https://solved.ac/jiyesung01)
