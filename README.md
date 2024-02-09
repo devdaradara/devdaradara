@@ -47,7 +47,7 @@
   - 2024.01.19 ~ 
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devdaradara&repo=WhereWheel&theme=buefy)](https://github.com/devdaradara/WhereWheel)
 
--  BuddyFriends - React & SpringBoot
+- 🦮 BuddyFriends - React & SpringBoot
   - 반려 동물 돌봄 품앗이 웹 사이트 입니다.
   - 2024.01.27 ~ 2024.02.06
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
