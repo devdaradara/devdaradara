@@ -5,7 +5,7 @@
 > 작은 불씨가 넓은 들판을 태우듯, <br/>
 > 저의 작은 노력과 지속적인 학습이 사회적 가치를 창출하기를 바랍니다.
 
-> https://devdaradara.github.io/DaraProfile/
+> https://devdaradara.github.io/DaraProfile/ (개발중...)
 
 <br/>
 
@@ -45,7 +45,7 @@
 <details>
 <summary>2024</summary>
 
-- 🧑🏻‍🦼 WhereWhell - React
+- 🧑🏻‍🦼 WhereWheel - React
   - 전동 휠체어 급속 충전기 위치 공유 사이트입니다.
   - 2024.01.19 ~ 
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devdaradara&repo=WhereWheel&theme=buefy)](https://github.com/devdaradara/WhereWheel)
