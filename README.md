@@ -5,7 +5,7 @@
 > 작은 불씨가 넓은 들판을 태우듯, <br/>
 > 저의 작은 노력과 지속적인 학습이 사회적 가치를 창출하기를 바랍니다.
 
-> https://devdaradara.github.io/DaraProfile/ (개발중...)
+> https://jiye-dev.vercel.app/
 
 <br/>
 
