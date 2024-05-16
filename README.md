@@ -53,12 +53,12 @@
 - 🦮 BuddyFriends - React & SpringBoot
   - 반려 동물 돌봄 품앗이 웹 사이트 입니다.
   - 2024.01.27 ~ 2024.02.06
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=front-end&theme=buefy)](https://github.com/BuddyFriends/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuddyFriends&repo=back-end&theme=buefy)](https://github.com/BuddyFriends/back-end)
 
 - 🦮 StoryTeller - React Native & SpringBoot
   - AI를 활용해 어린이를 위한 영어 동화를 생성하는 앱입니다.
   - 2024.03.01. ~
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS-StoryTeller&repo=front-end&theme=buefy)](https://github.com/jinakayoo/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS-StoryTeller&repo=back-end&theme=buefy)](https://github.com/jinakayoo/back-end)
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS-StoryTeller&repo=front-end&theme=buefy)](https://github.com/DS-StoryTeller/front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS-StoryTeller&repo=back-end&theme=buefy)](https://github.com/DS-StoryTeller/back-end)
 
 
 
